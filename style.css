@@ -12,6 +12,17 @@ h1{
     font-weight: bold;
     font-size: 2.5rem;
 }
+.Click
+{
+    color: rgb(199, 21, 163);
+    font-weight: bold;
+    font-size: 2rem;
+}
+.Wait{
+    color: rgb(193, 193, 40);
+    font-weight: bolder;
+    font-size: 30px;
+}
 h2{
     color:rgb(101, 230, 62);
     font-family:'Courier New', Courier, monospace;
