@@ -66,7 +66,7 @@ document.querySelectorAll(".image")[i].addEventListener("click",function()
             new Audio("./Audio'/Demonking.mp3").play();
             break;
         case "Fullmetal":
-            new Audio("./Audio'/Fullmetal.mp3").play();
+            new Audio("./Audio'/Fulllmetal.mp3").play();
             break;
         case "hell":
             new Audio("./Audio'/hell.mp3").play();
