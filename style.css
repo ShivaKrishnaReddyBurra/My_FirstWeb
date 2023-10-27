@@ -123,10 +123,13 @@ li{
     }
     .buttons
     {
-        display: flex;
+        display: inline-flex;
+        margin-left:10px;
+        margin-right: 50px;
+        padding: auto;
         justify-content: center;
         align-items: center;
-        width: 50%;
-        height: 50%;
+        width: 100px;
+        height: 80px;
     }
 }
