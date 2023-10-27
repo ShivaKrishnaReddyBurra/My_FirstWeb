@@ -41,7 +41,7 @@ li{
     height: 55px;
     margin: auto;
     padding: auto;
-   display: flex;
+    display: flex;
     justify-content: center; 
    
     align-items: center;
@@ -61,6 +61,13 @@ li{
 }
 .boruto{
     float:right;
+}
+.buttons{
+    display:inline-flex;
+    gap:10px;
+    background-color: aqua;
+    color:black;
+    
 }
 .size{
     height: 150px;
@@ -114,5 +121,12 @@ li{
        
         align-items: center;
     }
-    
+    .buttons
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50%;
+        height: 50%;
+    }
 }
